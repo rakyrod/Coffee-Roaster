@@ -1,0 +1,154 @@
+.body {
+    padding: 0;
+    border-radius: 0;
+    margin: 0;
+    width: 100%;
+}
+
+
+
+
+.pic {
+    height: 600px;
+    width: 100%;
+    padding: 0%;
+    right: 2%;
+    left: 3px;
+    margin: 0%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.write{
+   
+   margin: 10px;
+   padding: 10px;
+    text-align: center;    
+    
+
+}
+
+.write p { 
+    margin: 0 auto;
+    text-align: center;
+    max-width: 800px;
+    color: black;
+    font-size: 20px;
+
+}
+.write h3 {
+    text-align: start;
+    margin: 30px;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.kape1{
+    height: 300px;
+    width: 19%;
+    display: block;
+    border-radius: 20px;
+    
+}
+.navi-bar { 
+    padding: 25px;
+
+}
+.navi-bar a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight:lighter;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+.beans {
+    display: flex;
+    flex-direction:row;
+    width: 40%;
+    height: 390px;
+    margin: 37px auto; 
+    border-radius: 20px;
+    padding: 44px;
+    position: relative;
+    right: 26%;
+}
+
+.para {
+    text-align:justify;
+    margin: 50px auto;
+}
+
+.para h2{
+    font-size: 20px;
+    position: absolute;
+    right: 74px;
+    left: 47%;
+    margin: 190px;
+    border-radius: 15px;
+    top: 135%;
+    max-width: 520px;   
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.para p { 
+    position: absolute;
+    text-align: center;
+    margin: 190px;
+    top: 143%;
+    right: 2px;
+    max-width: 520px;   
+    font-size: 20px;
+}
+
+.logo{
+    position: absolute;
+    right: 43px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-weight:lighter;
+    margin: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.row {
+    display: flex;
+    justify-content:left;
+    margin-bottom: 20px;
+}
+
+.row a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 50%;
+}
+.row i {
+    width: 40px;
+    font-size: 2em;
+    color: rgb(116, 96, 96);
+    opacity: 0.9;
+}
+.footer-bottom{
+    position: relative;
+    left: 29%;
+    top: 29px;
+}
+
+
+
+
